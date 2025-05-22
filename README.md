@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME - JEEVIKA R
+### ROLL NO:212224040137
+### DEPARTMENT :BE CSE
+### DATE:22-5-2025
 
 
 
